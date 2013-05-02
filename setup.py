@@ -4,7 +4,7 @@ import setuptools
 
 setup(
     name = "pyelasticsearch",
-    version = "0.0.5",
+    version = "0.0.5tt1",
     description = "Lightweight python wrapper for elasticsearch.",
     long_description=open(os.path.join(os.path.dirname(__file__), 'README.rst'), 'r').read(),
     author = 'Robert Eanes',
